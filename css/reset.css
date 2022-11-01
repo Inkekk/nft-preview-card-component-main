@@ -107,6 +107,11 @@ section {
   display: block;
 }
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
 body {
   line-height: 1;
 }
